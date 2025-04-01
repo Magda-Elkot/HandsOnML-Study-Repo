@@ -20,5 +20,5 @@ To get started with the notebooks and solutions, follow these steps:
 1. **Clone the repository** to your local machine using Git:
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/HandsOnML-3rd-Edition.git
+    git clone https://github.com/Magda-Elkot/HandsOnML-Study-Repo.git
     ```
